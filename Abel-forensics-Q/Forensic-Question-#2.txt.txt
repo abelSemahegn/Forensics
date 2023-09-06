@@ -1,42 +1,10 @@
-Ferensic-Question-#2:
+Grep
 
-
-***Hint***
-
-What is meta data: https://en.wikipedia.org/wiki/Metadata
-
---------------------------------------------------------------------------
-
-In this folder there is a image, answer the following questions:
 --------------------------------------------------------------------------
 
 1.)
-2pt
-What is the date taken: 
-
-#insert answer
-
---------------------------------------------------------------------------
-
-2.)
-2pt
-What is the file type: 
-
-#insert answer
-
---------------------------------------------------------------------------
-
-3.)
-2pt
-Who is the character depicted: 
-
-#insert answer
-
---------------------------------------------------------------------------
-
-4.)
-5pt
-What is the importance of the "date taken":
+10pt
+What is the flag hidden in the folder
 
 #insert answer
 
