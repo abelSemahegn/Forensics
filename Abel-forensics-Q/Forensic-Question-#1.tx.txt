@@ -1,0 +1,27 @@
+Ferensic-Question-#1:
+
+
+***Hint***
+What is Base64: https://en.wikipedia.org/wiki/Base64
+Online decoder:  https://dencode.com/en/
+
+5347567362473867643239796247513d
+
+--------------------------------------------------------------------------
+
+1.)
+2pt
+Decode the string above and paste your answer below:
+	
+#insert answer
+
+--------------------------------------------------------------------------
+
+
+2.)
+2pt
+Why is this a popular phrase:
+
+#insert answer
+
+--------------------------------------------------------------------------

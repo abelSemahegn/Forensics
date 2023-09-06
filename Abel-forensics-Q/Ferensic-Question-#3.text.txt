@@ -1,0 +1,34 @@
+Ferensic-Question-#3:
+
+
+***Hint***
+
+What is a '.torrent': https://en.wikipedia.org/wiki/Torrent_file
+
+What is a MD5: https://en.wikipedia.org/wiki/MD5
+
+--------------------------------------------------------------------------
+
+1.)
+5pt
+What is the md-5 check sum of the ".torrent" provieded:
+
+#insert answer
+
+--------------------------------------------------------------------------
+
+2.)
+5pt
+What does the comment for the file state:
+
+#insert answer
+
+--------------------------------------------------------------------------
+
+3.)
+5pt
+What is the file downloaded to your computer from the .torrent:
+
+#insert answer
+
+--------------------------------------------------------------------------
